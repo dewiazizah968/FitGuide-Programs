@@ -55,3 +55,6 @@ Thank you to the following contributors for their work on this project:
 - [Fatimah](https://github.com/FatimahAzzaroh28)
 
 We welcome contributions to improve FitGuide. Please feel free to fork the repository and submit a pull request.
+
+
+Thank you for your interest in FitGuide! If you have any questions or need further assistance, please don't hesitate to reach out.
